@@ -12,7 +12,7 @@ Afin de faciliter vos développements et de délivrer au mieux de votre travail 
 
 # Détail des différentes branches
 
-![](https://images.app.goo.gl/oSNqZTmqCEZK5HbZA)
+![](https://miro.medium.com/max/823/1*uUpzVOpdFw5V-tJ_YvgFmA.png)
 
 ## La branche principale **`master`**
 > contient le code source qui permettra de générer la release à deployer sur l'environnement de **production**.
